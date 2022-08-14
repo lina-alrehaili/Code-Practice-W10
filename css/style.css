@@ -16,6 +16,9 @@
 .back-color{
     background-color: #3361a7;
 }
+.white-txt{
+    color: white;
+}
 :root {
     --primary: #D81324;
     --secondary: #0B2154;
@@ -212,7 +215,7 @@
 
 /*** Facts ***/
 .fact {
-    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/carousel-bg-1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/background.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -236,7 +239,7 @@
 
 /*** Booking ***/
 .booking {
-    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/carousel-bg-2.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/background.png) center center no-repeat;
     background-size: cover;
 }
 
@@ -331,7 +334,7 @@
 
 /*** Footer ***/
 .footer {
-    background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, .9)), url(../img/carousel-bg-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, .9)), url(../img/background.png) center center no-repeat;
     background-size: cover;
 }
 
